@@ -1,2 +1,0 @@
-# sixdegrees
-Six Degrees
